@@ -1,0 +1,223 @@
+/* 
+.mainSection {
+  text-align: center;
+  padding: 20px;
+}
+
+h2 {
+  color: #333;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.homeText {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 36px;
+  margin: 0;
+}
+
+.homeFlights, .homeHotels {
+  display: inline-block;
+  margin: 20px;
+}
+
+.homeFlights img, .homeHotels img {
+  width: 150px;
+  height: 150px;
+}
+
+.homeFlights h2, .homeHotels h2 {
+  font-size: 24px;
+  margin-top: 10px;
+} */
+
+_____---__----_____----_____-----
+
+
+/* Header component */
+.header {
+  background-color: #333333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.header h1 {
+  font-size: 36px;
+  margin: 0;
+}
+
+/* NavBar component */
+.navbar {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+.links {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.links:hover {
+  text-decoration: underline;
+}
+
+/*  Home Pg */
+.mainSection {
+  text-align: center;
+  padding: 20px;
+}
+
+h2 {
+  color: #333;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.homeText {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 36px;
+  margin: 0;
+}
+
+.homeFlights,
+.homeHotels {
+  display: inline-block;
+  margin: 20px;
+}
+
+.homeFlights img,
+.homeHotels img {
+  width: 150px;
+  height: 150px;
+}
+
+.homeFlights h2,
+.homeHotels h2 {
+  font-size: 24px;
+  margin-top: 10px;
+}
+/*  AboutPg  */
+.aboutPageMain {
+  text-align: center;
+  padding: 20px;
+}
+
+.aboutUsHeading {
+  font-size: 36px;
+  margin: 0;
+  color: #425a063b;
+}
+
+.aboutUsInfo {
+  font-size: 24px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.aboutGuideHeading {
+  font-size: 28px;
+  color: #333;
+}
+
+.aboutGuideBody {
+  font-size: 18px;
+  color: #666;
+}
+
+.faqHeading {
+  font-size: 28px;
+  margin-top: 20px;
+  color: #333;
+}
+
+.faqQuestion {
+  font-weight: bold;
+  margin-top: 10px;
+  color: #333;
+}
+
+.faqAnswer {
+  margin-bottom: 20px;
+  color: #666;
+}
+
+/*Contact page */
+.contactPageImg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.contact-us-form {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+  width: 50%;
+  margin-right: 20px;
+}
+
+.contact-us-form h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #f0e91c;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+label {
+  font-size: 18px;
+  color: #333;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button[type="submit"] {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #555;
+}
+
+.contactPageImg img {
+  max-width: 100%;
+  height: auto;
+  width: 50%;
+}
